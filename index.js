@@ -18,4 +18,10 @@ const divide = (a, b) => {
   return a / b;
 };
 
-alert(divide(1, 2));
+module.exports = {
+  add,
+  subtract,
+  multiply,
+  modulus,
+  divide,
+};
