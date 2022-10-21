@@ -2,6 +2,15 @@
 
 A simple package to perform division, addtion, subtraction, multiplication, and modulus.
 
+  ## Table of Contents
+
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [Contributing](#contributing)
+  * [License](#license)
+
+
+
 ## Installation
 
 npm
@@ -43,7 +52,7 @@ multiply(2, 1);
  modulus(2, 1);
 ```
 
-## Drop a ⭐ if you found it useful. Happy Hacking :blush:
+### Drop a ⭐ if you found it useful. Happy Hacking :blush:
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
