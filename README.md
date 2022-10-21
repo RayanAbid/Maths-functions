@@ -27,19 +27,19 @@ const {
   modulus,
 } = require("@rayan-abid/calculationsjs");
 
-# returns Addition
+// returns Addition
 add(2, 1);
 
-# returns Division
+// returns Division
 divide(2, 1);
 
-# returns Subtraction
+// returns Subtraction
 subtract(2, 1);
 
-# returns Multiplication
+// returns Multiplication
 multiply(2, 1);
 
-# returns Modulus
+// returns Modulus
  modulus(2, 1);
 ```
 
