@@ -1,6 +1,6 @@
 {
   "name": "@rayan-abid/calculationsjs",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "description": "Simple math functions ",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/RayanAbid/Maths-functions"
+    "url": "https://github.com/RayanAbid/calculationsjs"
   },
   "keywords": [
     "maths",
@@ -18,7 +18,7 @@
   "author": "Rayan Abid",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/RayanAbid/Maths-functions/issues"
+    "url": "https://github.com/RayanAbid/calculationsjs/issues"
   },
-  "homepage": "https://github.com/RayanAbid/Maths-functions#readme"
+  "homepage": "https://github.com/RayanAbid/calculationsjs#readme"
 }
